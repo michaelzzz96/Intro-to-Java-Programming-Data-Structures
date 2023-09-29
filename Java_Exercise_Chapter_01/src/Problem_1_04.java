@@ -1,4 +1,4 @@
-public class Problem_1_4 {
+public class Problem_1_04 {
 
     public static void main(String[] args) {
         System.out.println("a   a^2   a^3");
