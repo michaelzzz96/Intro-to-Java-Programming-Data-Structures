@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem_8_4 {
+public class Problem_8_04 {
 
     public static void main(String[] args) {
         int[][] overTime = new int[8][7];
