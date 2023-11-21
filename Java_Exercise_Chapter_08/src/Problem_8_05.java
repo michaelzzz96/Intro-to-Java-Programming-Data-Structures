@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem_8_5 {
+public class Problem_8_05 {
 
     public static void main(String[] args) {
         double[][] a = new double[3][3];

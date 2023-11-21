@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem_8_9 {
+public class Problem_8_09 {
 
     public static void main(String[] args) {
         playTicTacToe();
