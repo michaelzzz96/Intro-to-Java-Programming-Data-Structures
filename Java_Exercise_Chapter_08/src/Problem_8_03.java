@@ -1,4 +1,4 @@
-public class Problem_8_3 {
+public class Problem_8_03 {
 
     public static void main(String args[]) {
         // Students' answers to the questions
