@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Problem_10_5 {
+public class Problem_10_05 {
 
     public static void main(String[] args) {
         System.out.print("Enter a positive integer: ");
